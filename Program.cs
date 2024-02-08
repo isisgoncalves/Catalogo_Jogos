@@ -17,7 +17,6 @@ class Program
           AdicionarJogo(i, nomesJogos);
         }
 
-        // Exibe o resumo da adição de jogos
         ExibirResumoAdicaoJogos(quantidadeJogos, nomesJogos);
     }
 
