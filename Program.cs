@@ -12,7 +12,6 @@ class Program
         
        string[] nomesJogos = new string[quantidadeJogos];
 
-        // TODO: Crei um Loop para adicionar jogos conforme a quantidade especificada:
        for(int i = 0; i < quantidadeJogos; i++)
         {
         //TODO: Chame a função AdicionarJogo para obter o nome do jogo e armazená-lo no array:
