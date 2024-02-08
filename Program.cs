@@ -6,7 +6,7 @@ class Program
 {
     static void Main()
     {
-        // Pergunta ao usuário quantos jogos deseja adicionar:
+       
         int quantidadeJogos = int.Parse(Console.ReadLine());
 
         // TODO: Inicializa os arrays com base na quantidade informada pelo usuário:
