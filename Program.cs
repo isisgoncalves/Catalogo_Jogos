@@ -15,7 +15,6 @@ class Program
 
         ExibirResumoAdicaoJogos(quantidadeJogos, nomesJogos);
     }
-
     static void AdicionarJogo(int indice, string[] nomes)
     {
         // Entrada do nome do jogo
