@@ -14,7 +14,6 @@ class Program
 
        for(int i = 0; i < quantidadeJogos; i++)
         {
-        //TODO: Chame a função AdicionarJogo para obter o nome do jogo e armazená-lo no array:
           AdicionarJogo(i, nomesJogos);
         }
 
