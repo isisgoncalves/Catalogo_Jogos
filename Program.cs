@@ -9,7 +9,7 @@ class Program
        
         int quantidadeJogos = int.Parse(Console.ReadLine());
 
-        // TODO: Inicializa os arrays com base na quantidade informada pelo usuário:
+        
        string[] nomesJogos = new string[quantidadeJogos];
 
         // TODO: Crei um Loop para adicionar jogos conforme a quantidade especificada:
