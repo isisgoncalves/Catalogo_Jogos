@@ -17,7 +17,6 @@ class Program
     }
     static void AdicionarJogo(int indice, string[] nomes)
     {
-        // Entrada do nome do jogo
         nomes[indice] = Console.ReadLine();
     }
 
