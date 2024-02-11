@@ -8,12 +8,12 @@
 ### 📌 Entrada
 </br>  
 
-- Será as informações de limiteInferior e limiteSuperior, sendo eles dois números inteiros(int).
+- O programa inicia solicitando ao usuário que insira a quantidade de jogos que deseja adicionar ao catálogo. Em seguida, para cada jogo, o usuário é solicitado a inserir o nome do jogo.
 #
 ### 📌 Saída
 </br>
 
-- A saída deverá informar uma String com o resultado final: $"A soma dos números pares de {limiteInferior} a {limiteSuperior} e: {somaPares}".
+- Ao final da adição dos jogos, o programa exibe um resumo que inclui a quantidade total de jogos adicionados e uma lista com os nomes dos jogos separados por vírgulas. Este resumo fornece uma visão geral dos jogos que foram incluídos no catálogo.
 #
 ### 📌 Tecnologias e ferramentas:
 
