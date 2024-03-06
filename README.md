@@ -1,4 +1,4 @@
-# catálogo de jogos 🎮
+# catálogo de jogos 🎯
  
  ## Desafio Bootcamp DIO Decola Tech 2024 🚀 
 </br>
